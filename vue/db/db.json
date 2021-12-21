@@ -1,0 +1,472 @@
+{
+  "lojas": [
+    {
+      "nome": "Mc'Donald's",
+      "promovido": false,
+      "produtos": [
+        {
+          "id": 1,
+          "item": "Hamburger",
+          "preco": 15,
+          "promocao": true,
+          "img": "/img/mec/simples.png",
+          "igredientes": [
+            "Pão com gergilim",
+            "Carne de Hamburger",
+            "Salada"
+          ]
+        },
+        {
+          "id": 2,
+          "item": "X-Tudo",
+          "preco": 28,
+          "promocao": false,
+          "img": "/img/mec/bigburger.png",
+          "igredientes": [
+            "Pão com gergilim",
+            "Carne de Hamburger",
+            "Carne de Hamburger extra",
+            "Queijo",
+            "Cheddar",
+            "Bacon",
+            "Alface",
+            "Tomate",
+            "Molho especial",
+            "Maionese"
+          ]
+        },
+        {
+          "id": 3,
+          "item": "Hamburger de Bacon",
+          "preco": 20,
+          "promocao": true,
+          "img": "/img/mec/chedar.png",
+          "igredientes": [
+            "Pão com gergilim",
+            "Bacon",
+            "Bacon extra",
+            "Queijo",
+            "Molho especial"
+          ]
+        },
+        {
+          "id": 4,
+          "item": "X-Salada",
+          "preco": 20,
+          "promocao": false,
+          "img": "/img/mec/bacon.png",
+          "igredientes": [
+            "Pão com Integral",
+            "Carne de Hamburger",
+            "Queijo",
+            "Alface",
+            "Tomate",
+            "Maionese"
+          ]
+        },
+        {
+          "id": 5,
+          "item": "Cheeseburger",
+          "preco": 20,
+          "promocao": false,
+          "img": "/img/mec/queijo.png",
+          "igredientes": [
+            "Pão com gergilim",
+            "Carne de Hamburger",
+            "Queijo",
+            "Molho especial"
+          ]
+        },
+        {
+          "id": 6,
+          "item": "Grande Cheese",
+          "preco": 25,
+          "promocao": false,
+          "img": "/img/mec/burger.png",
+          "igredientes": [
+            "Pão com gergilim",
+            "Carne de Hamburger",
+            "Queijo",
+            "Queijo extra",
+            "Salada"
+          ]
+        },
+        {
+          "id": 7,
+          "item": "Chicken de Frango",
+          "preco": 15,
+          "promocao": false,
+          "img": "/img/mec/chicken.png",
+          "igredientes": [
+            "Pão com gergilim",
+            "Carne de Frango",
+            "Salada"
+          ]
+        },
+        {
+          "id": 8,
+          "item": "Chicken de Bacon",
+          "preco": 20,
+          "promocao": false,
+          "img": "/img/mec/bacon.png",
+          "igredientes": [
+            "Pão com gergilim",
+            "Carne de Frango",
+            "Bacon",
+            "Salada",
+            "Molho especial"
+          ]
+        },
+        {
+          "id": 9,
+          "item": "Double Cheddar",
+          "preco": 20,
+          "promocao": false,
+          "img": "/img/mec/chedargrande.png",
+          "igredientes": [
+            "Pão com gergilim",
+            "Carne de Hamburger",
+            "Carne de Hamburger extra",
+            "Cheddar",
+            "Cheddar extra"
+          ]
+        },
+        {
+          "id": 10,
+          "item": "Nuggets",
+          "preco": 8,
+          "promocao": false,
+          "img": "/img/mec/nuggets.png",
+          "igredientes": [
+            "Nuggets de frango 10 und"
+          ]
+        },
+        {
+          "id": 11,
+          "item": "Refrigerante",
+          "preco": 5,
+          "promocao": false,
+          "img": "/img/mec/bebida1.png",
+          "igredientes": [
+            "Refrigerante de Coca 300ml"
+          ]
+        },
+        {
+          "id": 12,
+          "item": "Refrigerante grande",
+          "preco": 8,
+          "promocao": false,
+          "img": "/img/mec/bebida1.png",
+          "igredientes": [
+            "Refrigerante de Coca 550ml"
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nome": "Habbib's",
+      "promovido": false,
+      "produtos": [
+        {
+          "id": 1,
+          "item": "Sphira de Carne",
+          "preco": 2,
+          "promocao": false,
+          "img": "/img/hab/carne.png",
+          "igredientes": [
+            "Sphira de carne a unidade"
+          ]
+        },
+        {
+          "id": 2,
+          "item": "Sphira de Frango",
+          "preco": 2,
+          "promocao": false,
+          "img": "/img/hab/carne.png",
+          "igredientes": [
+            "Sphira de frango a unidade"
+          ]
+        },
+        {
+          "id": 3,
+          "item": "Sphira de Calabresa",
+          "preco": 2,
+          "promocao": false,
+          "img": "/img/hab/carne.png",
+          "igredientes": [
+            "Sphira de calabresa e mussarela a unidade"
+          ]
+        },
+        {
+          "id": 4,
+          "item": "Sphira de Queijo",
+          "preco": 2,
+          "promocao": false,
+          "img": "/img/hab/carne.png",
+          "igredientes": [
+            "Sphira de queijo a unidade"
+          ]
+        },
+        {
+          "id": 5,
+          "item": "Sphira de Chocolate",
+          "preco": 6,
+          "promocao": true,
+          "img": "/img/hab/carne.png",
+          "igredientes": [
+            "Sphira de Chocolate a unidade"
+          ]
+        },
+        {
+          "id": 6,
+          "item": "Sphira de Frango Catupiry",
+          "preco": 4,
+          "promocao": true,
+          "img": "/img/hab/carne.png",
+          "igredientes": [
+            "Sphira de frango e queijo catupiry a unidade"
+          ]
+        },
+        {
+          "id": 7,
+          "item": "Sphira Quatro Queijos",
+          "preco": 2,
+          "promocao": false,
+          "img": "/img/hab/carne.png",
+          "igredientes": [
+            "Sphira 4 queijos a unidade",
+            "Mussarela",
+            "Catupiry",
+            "e +2 Queijos"
+          ]
+        },
+        {
+          "id": 8,
+          "item": "Chicken de Frango",
+          "preco": 20,
+          "promocao": false,
+          "img": "/img/hab/chicken.png",
+          "igredientes": [
+            "Pão com gergilim",
+            "Carne de Frango",
+            "Salada",
+            "Maionese"
+          ]
+        },
+        {
+          "id": 9,
+          "item": "Hamburger de Bacon",
+          "preco": 20,
+          "promocao": false,
+          "img": "/img/hab/bacon.png",
+          "igredientes": [
+            "Pão com gergilim",
+            "Bacon",
+            "Bacon extra",
+            "Queijo",
+            "Molho especial"
+          ]
+        },
+        {
+          "id": 10,
+          "item": "Refrigerante latinha",
+          "preco": 6,
+          "promocao": true,
+          "img": "/img/hab/refri.png",
+          "igredientes": [
+            "Refrigerante latinha de Coca 250ml"
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "nome": "Pizzaria",
+      "promovido": false,
+      "produtos": [
+        {
+          "id": 1,
+          "item": "Pizza de Mussarela",
+          "preco": 30,
+          "promocao": false,
+          "img": "/img/piz/mussarela.png",
+          "igredientes": [
+            "Pizza Grande",
+            "Mussarela",
+            "Oregano"
+          ]
+        },
+        {
+          "id": 2,
+          "item": "Pizza de Frango Catupiry",
+          "preco": 30,
+          "promocao": false,
+          "img": "/img/piz/frangcat.png",
+          "igredientes": [
+            "Pizza Grande",
+            "Mussarela",
+            "Frango",
+            "Catupiry",
+            "Oregano"
+          ]
+        },
+        {
+          "id": 3,
+          "item": "Pizza Quatro Queijos",
+          "preco": 38,
+          "promocao": false,
+          "img": "/img/piz/4queijos.png",
+          "igredientes": [
+            "Pizza Grande",
+            "Mussarela",
+            "Catupiry",
+            "e +2 Queijos"
+          ]
+        },
+        {
+          "id": 4,
+          "item": "Pizza de Bacon",
+          "preco": 34,
+          "promocao": false,
+          "img": "/img/piz/bacon.png",
+          "igredientes": [
+            "Pizza Grande",
+            "Mussarela",
+            "Bacon",
+            "Oregano"
+          ]
+        },
+        {
+          "id": 5,
+          "item": "Pizza de Calabresa",
+          "preco": 34,
+          "promocao": false,
+          "img": "/img/piz/calabresa.png",
+          "igredientes": [
+            "Pizza Grande",
+            "Mussarela",
+            "Calabresa",
+            "Oregano"
+          ]
+        },
+        {
+          "id": 6,
+          "item": "Pizza Portuguesa",
+          "preco": 40,
+          "promocao": false,
+          "img": "/img/piz/portuguesa.png",
+          "igredientes": [
+            "Pizza Grande",
+            "Mussarela",
+            "Presunto",
+            "Salada",
+            "Oregano"
+          ]
+        },
+        {
+          "id": 7,
+          "item": "Refrigerante",
+          "preco": 5,
+          "promocao": false,
+          "img": "/img/piz/refri.png",
+          "igredientes": [
+            "Refrigerante de Coca latinha"
+          ]
+        },
+        {
+          "id": 8,
+          "item": "Refrigerante Grande",
+          "preco": 13,
+          "promocao": false,
+          "img": "/img/piz/coca.png",
+          "igredientes": [
+            "Refrigerante de Coca 2l"
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "nome": "MilkShakespeare",
+      "promovido": true,
+      "produtos": [
+        {
+          "id": 1,
+          "item": "Milk-Shake de Chocolate",
+          "preco": 15,
+          "promocao": false,
+          "img": "/img/ice/mschoco.png",
+          "igredientes": [
+            "Milk-Shake de Chocolate 300ml"
+          ]
+        },
+        {
+          "id": 2,
+          "item": "Milk-Shake de Morango",
+          "preco": 15,
+          "promocao": false,
+          "img": "/img/ice/msmorango.png",
+          "igredientes": [
+            "Milk-Shake de Morango 300ml"
+          ]
+        },
+        {
+          "id": 3,
+          "item": "Ovomaltine",
+          "preco": 20,
+          "promocao": false,
+          "img": "/img/ice/ovomaltine.png",
+          "igredientes": [
+            "Ovomaltine 350ml"
+          ]
+        },
+        {
+          "id": 4,
+          "item": "Sundae de Chocolate",
+          "preco": 8,
+          "promocao": true,
+          "img": "/img/ice/schoco.png",
+          "igredientes": [
+            "Sundae de Chocolate 250ml"
+          ]
+        },
+        {
+          "id": 5,
+          "item": "Sundae de Morango",
+          "preco": 8,
+          "promocao": true,
+          "img": "/img/ice/smorango.png",
+          "igredientes": [
+            "Sundae de Chocolate 250ml"
+          ]
+        },
+        {
+          "id": 6,
+          "item": "Sundae de Caramelo",
+          "preco": 8,
+          "promocao": true,
+          "img": "/img/ice/scaramelo.png",
+          "igredientes": [
+            "Sundae de Chocolate 250ml"
+          ]
+        },
+        {
+          "id": 7,
+          "item": "Sorvete de Casquinha",
+          "preco": 5,
+          "promocao": false,
+          "img": "/img/ice/casquinha.png",
+          "igredientes": [
+            "Casquinha sabores:",
+            "Chocolate",
+            "Baunilha",
+            "Misto"
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "pedidos": []
+}

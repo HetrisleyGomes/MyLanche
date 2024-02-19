@@ -188,7 +188,7 @@ export default {
     56% {background:linear-gradient(to right, #27d6cd 50%, #ddd0)}
     70% {background:linear-gradient(to right, #0000ff 50%, #ddd0)}
     84% {background:linear-gradient(to right, #690d8d 50%, #ddd0)}
-    100% {background:linear-gradient(to right, #b600b6 50%,#ddd0)}
+    100%{background:linear-gradient(to right, #b600b6 50%,#ddd0)}
   }
 
   .item em {position: relative; margin-bottom: -25px; bottom: 30px; width: 100%;

@@ -2,7 +2,7 @@
   "lojas": [
     {
       "nome": "Mc'Donald's",
-      "promovido": false,
+      "promovido": true,
       "produtos": [
         {
           "id": 1,
@@ -20,7 +20,7 @@
           "id": 2,
           "item": "X-Tudo",
           "preco": 28,
-          "promocao": false,
+          "promocao": true,
           "img": "/img/mec/bigburger.png",
           "igredientes": [
             "Pão com gergilim",
@@ -39,7 +39,7 @@
           "id": 3,
           "item": "Hamburger de Bacon",
           "preco": 20,
-          "promocao": true,
+          "promocao": false,
           "img": "/img/mec/chedar.png",
           "igredientes": [
             "Pão com gergilim",
@@ -172,7 +172,7 @@
           "id": 1,
           "item": "Sphira de Carne",
           "preco": 2,
-          "promocao": false,
+          "promocao": true,
           "img": "/img/hab/carne.png",
           "igredientes": [
             "Sphira de carne a unidade"
@@ -182,7 +182,7 @@
           "id": 2,
           "item": "Sphira de Frango",
           "preco": 2,
-          "promocao": false,
+          "promocao": true,
           "img": "/img/hab/carne.png",
           "igredientes": [
             "Sphira de frango a unidade"
@@ -192,7 +192,7 @@
           "id": 3,
           "item": "Sphira de Calabresa",
           "preco": 2,
-          "promocao": false,
+          "promocao": true,
           "img": "/img/hab/carne.png",
           "igredientes": [
             "Sphira de calabresa e mussarela a unidade"
@@ -282,7 +282,7 @@
       "id": 2
     },
     {
-      "nome": "Pizzaria",
+      "nome": "Pizzaria do seu Zé",
       "promovido": false,
       "produtos": [
         {
@@ -389,7 +389,7 @@
     },
     {
       "nome": "MilkShakespeare",
-      "promovido": true,
+      "promovido": false,
       "produtos": [
         {
           "id": 1,
@@ -468,5 +468,16 @@
       "id": 4
     }
   ],
-  "pedidos": []
+  "pedidos": [
+    {
+      "id": 3,
+      "item": "Ovomaltine",
+      "preco": 20,
+      "promocao": false,
+      "img": "/img/ice/ovomaltine.png",
+      "igredientes": [
+        "Ovomaltine 350ml"
+      ]
+    }
+  ]
 }

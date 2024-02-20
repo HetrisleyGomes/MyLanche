@@ -14,7 +14,7 @@ export default {
 
 <style scoped>
     #main-burger{
-        background-image: url('/img/burger.jpg');
+        background: url('../../public/img/burger.jpg');
         background-position: 0 -270px;
         background-size: cover;
         height: 450px;

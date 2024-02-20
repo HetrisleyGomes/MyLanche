@@ -8,7 +8,7 @@
           "id": 1,
           "item": "Hamburger",
           "preco": 15,
-          "promocao": true,
+          "promocao": false,
           "img": "/img/mec/simples.png",
           "igredientes": [
             "Pão com gergilim",
@@ -468,16 +468,5 @@
       "id": 4
     }
   ],
-  "pedidos": [
-    {
-      "id": 3,
-      "item": "Ovomaltine",
-      "preco": 20,
-      "promocao": false,
-      "img": "/img/ice/ovomaltine.png",
-      "igredientes": [
-        "Ovomaltine 350ml"
-      ]
-    }
-  ]
+  "pedidos": []
 }
